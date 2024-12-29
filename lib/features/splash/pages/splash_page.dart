@@ -1,6 +1,6 @@
 import 'package:animate_do/animate_do.dart';
 import 'package:c13_sat_islami/core/constants/app_assets.dart';
-import 'package:c13_sat_islami/features/layout/pages/layout_page.dart';
+import 'package:c13_sat_islami/features/layout/layout_page.dart';
 import 'package:flutter/material.dart';
 
 class SplashPage extends StatefulWidget {
